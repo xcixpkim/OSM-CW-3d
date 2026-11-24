@@ -35,7 +35,7 @@
 
 ### GitHub Pages
 
-https://xcixcode.github.io/OSM-CW-3d/
+https://xcixpkim.github.io/OSM-CW-3d/
 
 ### 로컬에서 실행
 
